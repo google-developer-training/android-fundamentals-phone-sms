@@ -1,19 +1,19 @@
-Android Developer Fundamentals
-==============================
+Android Apps – Phone Calls and SMS
+==================================
 
 This repository contains samples, starter code, and solutions for the
-Android Developer Fundamentals course.
+Android Apps – Phone Calls and SMS course.
 
 Introduction
 ------------
 
 Each of the samples in this repository is associated with a practical exercise
-from the Android Developer Fundamentals course. While each sample stands and
+from the Android Apps – Phone Calls and SMS course. While each sample stands and
 runs on its own, they are designed to be used together with the course.
 
-The Android Developer Fundamentals course is an instructor-led training
+The Android Apps – Phone Calls and SMS course is an instructor-led training
 experience and is targeted towards beginning Android developers with a
-background in software development or computer science.
+background in software development or computer science. 
 
 Pre-requisites
 --------------
@@ -27,13 +27,7 @@ Specifically, to get started you need:
 applications using an IDE (Integrated Development Environment).
 - At least 1-3 years of experience with object-oriented programming and
 the Java programming language.
-
-For the more advanced samples, it helps to know about:
-
-- SQLite databases and the SQLite query language.
-- Software architectural patterns that separate data from the user interface,
-such as MVP, MVC, or MVA.
-- Threading
+- Completion of the entire [Android Developer Fundamentals](https://developers.google.com/training/courses/android-fundamentals) course, or equivalent knowledge.
 
 You don't need to know anything about Android to get started.
 
@@ -49,7 +43,7 @@ if you don't already have it.
 License
 -------
 
-Copyright 2016 Google, Inc.
+Copyright 2017 Google, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
